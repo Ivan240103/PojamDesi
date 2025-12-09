@@ -1,7 +1,8 @@
 # PojamDesi
 Progetto di Algoritmi e Strutture Dati 2022/23 - Unibo
 
-Sviluppo di un giocatore automatico per ConnectX.
+Sviluppo di un giocatore automatico per ConnectX.  
+[Clicca qui](CXGame1.0/connectx/PojamDesi) per andare all'implementazione.
 
 ## Eseguire
 Vedi [README](CXGame1.0/connectx/README)
